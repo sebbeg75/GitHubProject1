@@ -10,6 +10,7 @@ namespace GitHubProject1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hey Github!");
         }
     }
 }
